@@ -1,43 +1,114 @@
-#1️⃣ Présentation
+<h1 align="center">👨‍💻 Riad — Portfolio Développeur IA</h1>
 
-Peux-tu te présenter brièvement (prénom, parcours, situation actuelle) ?
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-En%20formation-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-IA%20%26%20Backend-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Main%20Stack-Symfony%20%7C%20Python-2ECC71?style=for-the-badge" />
+</p>
 
-Je m’appelle Riad, j’ai 34 ans. Je suis titulaire d’une licence en droit du travail et j’ai occupé plusieurs postes, notamment agent de transfert d’argent, assistant logistique et serveur polyvalent en restauration.
-Par la suite, j’ai effectué un stage en développement web, suivi une formation de concepteur développeur d’applications, avant d’intégrer la formation Développeur IA proposée par Simplon.
+---
 
-Pourquoi as-tu choisi cette formation ?
+## 🧠 À propos
 
-J’ai choisi cette formation afin d’assurer la continuité de mon parcours et d’approfondir mes compétences techniques, avec pour objectif de monter en expertise et de développer mes connaissances dans le domaine de l’IA.
+Je m’appelle **Riad**.  
+Titulaire d’une **licence en droit du travail**, j’ai acquis une expérience variée dans différents secteurs :  
+**logistique**, **services financiers** et **restauration**.
 
-2️⃣ Parcours & expérience
+Dans une démarche de reconversion et d’évolution professionnelle, j’ai effectué un **stage en développement web**, suivi une **formation de concepteur développeur d’applications**.  
+Je suis actuellement en **formation Développeur IA chez Simplon/ISEN**, avec une orientation forte vers le **backend**, l’**automatisation** et l’**intelligence artificielle**.
 
-Quel élément de ton parcours te semble le plus pertinent aujourd’hui ?
+---
 
-Ma motivation constante et ma capacité à expérimenter de nouvelles solutions sans crainte, dès lors que cela me permet d’apprendre, de progresser et d’améliorer mes compétences.
+## 🚀 Parcours & mindset
 
-As-tu déjà travaillé sur un projet (formation, personnel ou professionnel) ? Dans quel contexte ?
+<p align="center">
+  <img src="https://img.shields.io/badge/Mindset-Apprentissage%20continu-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Approche-Expérimentation-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Objectif-Monter%20en%20expertise-blueviolet?style=flat-square" />
+</p>
 
-Oui. En tant qu’assistant logistique, j’ai conçu un système d’automatisation d’impression basé sur le scan de QR codes.
-Le dispositif reposait sur un téléphone fixé au bras, utilisé comme une montre, permettant de scanner des QR codes afin de déclencher automatiquement des impressions.
-Ce projet a été mené de manière proactive, dans le but de faciliter les opérations logistiques et de gagner du temps au quotidien.
+✔️ Motivation constante  
+✔️ Capacité à tester de nouvelles solutions  
+✔️ Recherche permanente d’optimisation et d’efficacité
 
-3️⃣ Compétences techniques
+---
 
-Quelles technologies ou outils as-tu déjà utilisés ?
+## 🛠️ Stack technique
 
-Python, React / JavaScript, Symfony, HTML / CSS, MySQL, GitHub, Linux.
+### 🧩 Langages & frameworks
 
-Parmi eux, lesquels te semblent les plus maîtrisés aujourd’hui ?
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+</p>
 
-Actuellement, Symfony est la technologie que je maîtrise le mieux.
+### 🎨 Frontend
 
-4️⃣ Projet marquant
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+</p>
 
-Peux-tu décrire un projet ou un exercice dont tu es satisfait ?
+### 🗄️ Base de données & OS
 
-Le service de scan de QR codes développé dans le cadre de mon poste d’assistant logistique, qui a permis d’optimiser et de fluidifier les processus internes.
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+</p>
 
-Quelle difficulté principale as-tu rencontrée et comment l’as-tu abordée ?
+### ⚙️ Outils
 
-La principale difficulté concernait le scan en continu des QR codes, le système détectant plusieurs fois la même URL.
-Pour y remédier, j’ai mis en place une liste de contrôle permettant de vérifier si une URL avait déjà été scannée, évitant ainsi les scans redondants et améliorant la fiabilité du système.
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</p>
+
+⭐ **Stack principale : Symfony (Backend)**
+
+---
+
+## 🌟 Projet phare
+
+### 🔎 Automatisation par scan de QR codes
+
+📦 **Contexte**  
+Assistant logistique
+
+🎯 **Objectif**  
+Automatiser les impressions et réduire le temps de traitement des opérations logistiques.
+
+🛠️ **Solution**
+
+- Smartphone fixé au bras (usage type montre)
+- Scan de QR codes déclenchant des impressions automatiques
+- Mécanisme de contrôle pour éviter les répétitions
+
+⚠️ **Problème rencontré**  
+Scan continu d’une même URL
+
+✅ **Solution technique**  
+Mise en place d’une **liste de vérification** empêchant les scans redondants
+
+📈 **Résultats**
+
+- Processus fluidifié
+- Gain de temps
+- Fiabilité renforcée
+
+---
+
+## 🎯 Objectifs professionnels
+
+🎓 Monter en expertise **IA & Data**  
+⚙️ Concevoir des systèmes **automatisés intelligents**  
+🧠 Approfondir **Python** et l’IA
+
+---
+
+## 👤 Auteur
+
+<p align="center">
+  <b>Riad</b><br>
+  Développeur IA — Formation Simplon/ISEN Toulon
+</p>
